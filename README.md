@@ -29,6 +29,7 @@ The client faced a "Data-Rich, Insight-Poor" scenario where static reports faile
 I engineered a high-performance Tableau dashboard that centralizes KPI tracking and deep-dive diagnostics. By prioritizing **decision-centric analytics** over aesthetic complexity, the dashboard allows for an immediate "Pulse Check" on business health.
 
 ### **Dashboard Preview**
+![Image Alt](https://github.com/Data-Sherlock/Sales-Dashboard/blob/83745dec43e40ed25ba026af2c51a6f006b4fb58/Sales%20Dashboard.png)
 | KPI Overview | Subcategory Analysis | Trend Intelligence |
 | :--- | :--- | :--- |
 | **$609K** Total Sales[cite: 1] | **Chairs/Phones** (High Profit)[cite: 1] | **Above/Below** Avg Tracking[cite: 1] |
