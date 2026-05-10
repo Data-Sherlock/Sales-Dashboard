@@ -4,7 +4,7 @@
 [![Business Intelligence](https://img.shields.io/badge/BI-Analytics-blue?style=for-the-badge)](https://github.com/)
 [![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)](https://github.com/)
 
-> **Consulting Case:** Transforming fragmented retail data into a decision-centric intelligence hub to drive a **29.47% YoY Sales Growth**[cite: 1].
+> **Consulting Case:** Transforming fragmented retail data into a decision-centric intelligence hub to drive a **29.47% YoY Sales Growth**.
 
 ---
 
@@ -19,9 +19,9 @@
 
 ## 🎯 Business Problem
 The client faced a "Data-Rich, Insight-Poor" scenario where static reports failed to provide real-time performance context. Stakeholders could not easily identify:
-*   Which subcategories were underperforming despite high sales volume[cite: 1].
-*   When weekly sales dipped below the critical **$12K operational threshold**[cite: 1].
-*   The exact Year-over-Year (YoY) impact on net profit margins[cite: 1].
+*   Which subcategories were underperforming despite high sales volume.
+*   When weekly sales dipped below the critical **$12K operational threshold**.
+*   The exact Year-over-Year (YoY) impact on net profit margins.
 
 ---
 
@@ -32,16 +32,16 @@ I engineered a high-performance Tableau dashboard that centralizes KPI tracking 
 ![Image Alt](https://github.com/Data-Sherlock/Sales-Dashboard/blob/83745dec43e40ed25ba026af2c51a6f006b4fb58/Sales%20Dashboard.png)
 | KPI Overview | Subcategory Analysis | Trend Intelligence |
 | :--- | :--- | :--- |
-| **$609K** Total Sales[cite: 1] | **Chairs/Phones** (High Profit)[cite: 1] | **Above/Below** Avg Tracking[cite: 1] |
-| **$82K** Total Profit[cite: 1] | **Tables/Machines** (Profit Drain)[cite: 1] | **$2K** Avg Profit Threshold[cite: 1] |
+| **$609K** Total Sales | **Chairs/Phones** (High Profit) | **Above/Below** Avg Tracking |
+| **$82K** Total Profit | **Tables/Machines** (Profit Drain) | **$2K** Avg Profit Threshold |
 
 ---
 
 ## 🚀 Key Features & Impact
 
-*   **Executive Scorecard:** Dynamic KPIs for Sales, Profit, and Quantity with automated YoY growth calculations (e.g., **+32.74% Profit growth**)[cite: 1].
-*   **Threshold-Based Trend Tracking:** A dual-axis step chart that highlights performance volatility, visually flagging any dips below the **$12,000 average sales mark**[cite: 1].
-*   **Profitability Matrix:** A breakdown comparing sales volume vs. profit/loss by subcategory, pinpointing specific inventory items that require pricing adjustments[cite: 1].
+*   **Executive Scorecard:** Dynamic KPIs for Sales, Profit, and Quantity with automated YoY growth calculations (e.g., **+32.74% Profit growth**).
+*   **Threshold-Based Trend Tracking:** A dual-axis step chart that highlights performance volatility, visually flagging any dips below the **$12,000 average sales mark**.
+*   **Profitability Matrix:** A breakdown comparing sales volume vs. profit/loss by subcategory, pinpointing specific inventory items that require pricing adjustments.
 *   **Collapsible Navigation Hub:** Built a hidden filter panel for Region, Year, and Segment to maximize screen real estate for data visuals.
 
 ---
@@ -56,7 +56,7 @@ To ensure scalability and performance, I followed a structured BI pipeline:
 
 ## 🛠️ Technical Implementation
 *   **Tool:** Tableau Desktop
-*   **Visual Techniques:** Dual-Axis Charts, Reference Lines, Step Charts, and Dynamic Icons[cite: 1].
+*   **Visual Techniques:** Dual-Axis Charts, Reference Lines, Step Charts, and Dynamic Icons.
 *   **UX Design:** Icon-based navigation for switching between Sales and Customer-centric views.
 
 ---
@@ -64,9 +64,9 @@ To ensure scalability and performance, I followed a structured BI pipeline:
 ## 📬 Contact & Collaboration
 If you are looking for a data analyst who turns numbers into narratives, let's connect!
 
-*   **Portfolio:** [Your Link Here]
-*   **LinkedIn:** [Your Profile Here]
-*   **Email:** [Your Email Here]
+*   **Portfolio:** [[https://www.datascienceportfol.io/ahmedrafianalytics]]
+*   **LinkedIn:** [www.linkedin.com/in/rafianalytics]
+*   **Email:** [ahmedrafi.analytics@gmail.com]
 
 ---
 *Note: This project was developed based on the methodologies outlined in the "Sales Dashboard Tableu.pdf" and industry best practices.*
